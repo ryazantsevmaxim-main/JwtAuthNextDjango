@@ -24,8 +24,6 @@ yarn start
 ```
 
 
----
-
 ## Run
 
 Backend:
