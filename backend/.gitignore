@@ -1,0 +1,14 @@
+.idea
+#db.sqlite3
+*.log
+*.pot
+*.pyc
+**/__pycache__
+media
+.env
+.venv
+env
+venv
+ENV
+.vscode
+
